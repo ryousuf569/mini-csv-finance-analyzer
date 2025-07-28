@@ -1,0 +1,94 @@
+date,amount,category,vendor
+2025-07-01,1000.00,Rent,Landlord
+2025-07-01,25.00,Food,Subway
+2025-07-01,10.50,Food,Starbucks
+2025-07-02,120.00,Transport,Uber
+2025-07-02,30.00,Utilities,Electric Company
+2025-07-02,60.00,Shopping,Walmart
+2025-07-03,75.00,Entertainment,Netflix
+2025-07-03,9.00,Food,Tim Hortons
+2025-07-03,23.00,Transport,Bus
+2025-07-04,15.00,Food,McDonalds
+2025-07-04,25.00,Subscriptions,Spotify
+2025-07-04,80.00,Shopping,Amazon
+2025-07-05,13.50,Food,Local Market
+2025-07-05,35.00,Transport,Taxi
+2025-07-05,10.00,Entertainment,YouTube Premium
+2025-07-06,8.75,Food,Starbucks
+2025-07-06,60.00,Utilities,Electric Company
+2025-07-06,10.00,Subscriptions,Apple Music
+2025-07-07,40.00,Shopping,Walmart
+2025-07-07,28.00,Food,Popeyes
+2025-07-07,12.50,Food,McDonalds
+2025-07-08,45.00,Transport,Gas Station
+2025-07-08,18.00,Food,Taco Bell
+2025-07-08,70.00,Entertainment,Movie Theater
+2025-07-09,15.75,Food,Subway
+2025-07-09,120.00,Shopping,Best Buy
+2025-07-09,200.00,Savings,Deposit
+2025-07-10,20.00,Food,Starbucks
+2025-07-10,100.00,Transport,Car Rental
+2025-07-10,50.00,Entertainment,Netflix
+2025-07-11,35.00,Subscriptions,HBO Max
+2025-07-11,12.00,Food,Local Market
+2025-07-11,18.00,Shopping,Amazon
+2025-07-12,14.00,Food,KFC
+2025-07-12,45.00,Transport,Uber
+2025-07-12,70.00,Entertainment,Concert
+2025-07-13,16.00,Food,McDonalds
+2025-07-13,60.00,Utilities,Internet Co
+2025-07-13,35.00,Subscriptions,Crunchyroll
+2025-07-14,22.00,Food,Pizza Pizza
+2025-07-14,48.00,Shopping,Winners
+2025-07-14,10.00,Entertainment,YouTube Premium
+2025-07-15,18.50,Food,Starbucks
+2025-07-15,65.00,Transport,Train
+2025-07-15,90.00,Shopping,Amazon
+2025-07-16,19.00,Food,Chipotle
+2025-07-16,75.00,Entertainment,Netflix
+2025-07-16,50.00,Savings,Deposit
+2025-07-17,13.00,Food,Local Market
+2025-07-17,95.00,Transport,Uber
+2025-07-17,20.00,Shopping,H&M
+2025-07-18,30.00,Food,KFC
+2025-07-18,25.00,Subscriptions,Spotify
+2025-07-18,45.00,Entertainment,Arcade
+2025-07-19,14.00,Food,Tim Hortons
+2025-07-19,80.00,Shopping,Amazon
+2025-07-19,10.00,Entertainment,YouTube Premium
+2025-07-20,15.00,Food,Taco Bell
+2025-07-20,45.00,Transport,Taxi
+2025-07-20,60.00,Utilities,Electric Company
+2025-07-21,19.99,Subscriptions,Disney+
+2025-07-21,25.00,Food,McDonalds
+2025-07-21,90.00,Shopping,Best Buy
+2025-07-22,12.00,Food,Subway
+2025-07-22,35.00,Entertainment,Movie Theater
+2025-07-22,70.00,Transport,Gas Station
+2025-07-23,16.00,Food,Starbucks
+2025-07-23,50.00,Utilities,Internet Co
+2025-07-23,12.00,Subscriptions,Apple Music
+2025-07-24,15.00,Food,Local Market
+2025-07-24,28.00,Transport,Bus
+2025-07-24,85.00,Shopping,Walmart
+2025-07-25,30.00,Food,Pizza Pizza
+2025-07-25,60.00,Entertainment,Concert
+2025-07-25,25.00,Subscriptions,Crunchyroll
+2025-07-26,20.00,Food,Starbucks
+2025-07-26,45.00,Transport,Uber
+2025-07-26,90.00,Shopping,Amazon
+2025-07-27,13.00,Food,KFC
+2025-07-27,75.00,Entertainment,Movie Theater
+2025-07-27,40.00,Savings,Deposit
+2025-07-28,15.00,Food,McDonalds
+2025-07-28,55.00,Shopping,Winners
+2025-07-28,25.00,Utilities,Electric Company
+2025-07-29,18.50,Food,Taco Bell
+2025-07-29,40.00,Transport,Gas Station
+2025-07-29,20.00,Subscriptions,Netflix
+2025-07-30,10.00,Food,Tim Hortons
+2025-07-30,35.00,Entertainment,Arcade
+2025-07-30,75.00,Shopping,Amazon
+2025-07-31,200.00,Savings,Deposit
+2025-07-31,12.50,Food,Subway
+2025-07-31,80.00,Transport,Uber
