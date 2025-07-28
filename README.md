@@ -20,7 +20,7 @@ This project was created as a personal exercise to apply and reinforce Python pr
 
 I'm currently taking several Computer Science and Math courses, including:
 
-- MIT 6.0001 (Intro to Python)
+- MIT 6.0002 (Intro to Computational Thinking and Data Science)
 - UBCx: How to Code – Simple and Complex Data
 - MIT 6.042J (Mathematics for Computer Science)
 - MIT 6.006 (Introduction to Algorithms)
